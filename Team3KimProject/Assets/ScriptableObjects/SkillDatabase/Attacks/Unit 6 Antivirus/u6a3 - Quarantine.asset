@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 664c22281609b8d40a88fd34c7e87998, type: 3}
+  m_Name: u6a3 - Quarantine
+  m_EditorClassIdentifier: 
+  skillName: Quarantine
+  skillCost: 10
+  skillCD: 2
+  skillTilesRange: 6
+  modifyHP: -5
+  modifyHPScaling: 0
+  modifyMP: -10
+  modifyATK: -15
+  modifyDEF: -15
+  modifyFCS: -15
+  modifyMOB: -15
+  modifyTurnsLeft: 1
+  modifyStatus: 
+  flavorText: Does next to no damage but greatly reduces stats and stuns for one turn.
+  isAggressive: 1
+  selfUse: 0
+  animationModel: {fileID: 0}

@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 664c22281609b8d40a88fd34c7e87998, type: 3}
+  m_Name: u7a2 - An Original Name
+  m_EditorClassIdentifier: 
+  skillName: An Original Name
+  skillCost: 50
+  skillCD: 1
+  skillTilesRange: 6
+  modifyHP: 0
+  modifyHPScaling: 0
+  modifyMP: 0
+  modifyATK: -5
+  modifyDEF: 0
+  modifyFCS: -5
+  modifyMOB: 0
+  modifyTurnsLeft: 0
+  modifyStatus: 
+  flavorText: We did NOT take the name from history when  making this virus.
+  isAggressive: 1
+  selfUse: 0
+  animationModel: {fileID: 0}

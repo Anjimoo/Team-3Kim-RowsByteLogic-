@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 664c22281609b8d40a88fd34c7e87998, type: 3}
+  m_Name: u6a4 - Running Updates
+  m_EditorClassIdentifier: 
+  skillName: Running Updates
+  skillCost: 250
+  skillCD: 5
+  skillTilesRange: 9
+  modifyHP: -50
+  modifyHPScaling: 0
+  modifyMP: 10
+  modifyATK: 10
+  modifyDEF: 10
+  modifyFCS: 10
+  modifyMOB: -100
+  modifyTurnsLeft: 0
+  modifyStatus: 
+  flavorText: Slows down your opponent. Causes damage greatly reduces mobility and
+    increases other stats.
+  isAggressive: 1
+  selfUse: 0
+  animationModel: {fileID: 0}

@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 664c22281609b8d40a88fd34c7e87998, type: 3}
+  m_Name: O - RPC Lockdown
+  m_EditorClassIdentifier: 
+  skillName: RPC Lockdown
+  skillCost: 13
+  skillCD: 2
+  skillTilesRange: 5
+  modifyHP: 0
+  modifyHPScaling: 0
+  modifyMP: 0
+  modifyATK: 0
+  modifyDEF: 0
+  modifyFCS: 0
+  modifyMOB: 0
+  modifyTurnsLeft: 2
+  modifyStatus: 
+  flavorText: Kills the Remote Procedure Call process of your foe's system, locking
+    him down for 2 turns.
+  isAggressive: 1
+  selfUse: 0
+  animationModel: {fileID: 0}
